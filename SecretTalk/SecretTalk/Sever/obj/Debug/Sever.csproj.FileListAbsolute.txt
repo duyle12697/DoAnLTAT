@@ -1,0 +1,9 @@
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\bin\Debug\Sever.exe.config
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\bin\Debug\Sever.exe
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\bin\Debug\Sever.pdb
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\obj\Debug\Sever.csprojResolveAssemblyReference.cache
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\obj\Debug\Sever.Properties.Resources.resources
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\obj\Debug\Sever.Server.resources
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\obj\Debug\Sever.csproj.GenerateResource.Cache
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\obj\Debug\Sever.exe
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Sever\obj\Debug\Sever.pdb

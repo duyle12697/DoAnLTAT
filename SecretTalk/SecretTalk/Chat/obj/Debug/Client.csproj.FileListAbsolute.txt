@@ -1,0 +1,8 @@
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Chat\bin\Debug\Chat.exe.config
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Chat\bin\Debug\Chat.exe
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Chat\bin\Debug\Chat.pdb
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Chat\obj\Debug\Chat.Client.resources
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Chat\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Chat\obj\Debug\Chat.exe
+C:\Users\duy\Desktop\New folder (2)\ĐỒ ÁN AN NINH MẠNG\SecretTalk\SecretTalk\Chat\obj\Debug\Chat.pdb
